@@ -58,3 +58,15 @@ body {
 .footer p {
     margin-right: 1em;
 }
+
+@media screen and (min-width: 1440px) {
+    .qr-code__box {
+        margin: 10em auto;
+        width: 15%;
+    }
+
+    .qr-code__img {
+        width: 100%;
+    }
+}
+
