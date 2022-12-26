@@ -27,7 +27,6 @@ I started doing the HTML content first, adding all the items first and creating 
 
 I learned how to approach a challenge using Mobile-first workflow, then adding media queries to adapt to desktop version. I got to practice Display flex, how to add root variables to my css, linking google fonts to my project and positioning elements, padding, margin and width.
 
-To see how you can add code snippets, see below:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
